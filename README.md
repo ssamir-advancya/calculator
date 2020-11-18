@@ -1,7 +1,7 @@
 Calculator.js: a node.js Demonstration Project
 ==============================================
 An example node.js project, including tests with mocha, that behaves like
-a pocket calculator.
+a pocket calculator..
 [![Build Status](https://dev.azure.com/ssamir2020/configure%20azure%20Pipeline/_apis/build/status/ssamir-advancya.calculator?branchName=master)](https://dev.azure.com/ssamir2020/configure%20azure%20Pipeline/_build/latest?definitionId=28&branchName=master)
 The project contains a simple node.js application that exposes REST APIs
 to perform arithmetic on integers, and provides a test suite with mocha
